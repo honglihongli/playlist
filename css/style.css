@@ -1,0 +1,26 @@
+html{
+  height: 100%;
+}
+.another {
+  display: flex;
+  justify-content: space-between;
+}
+.overall {
+  display: flex;
+  justify-content: flex-start;
+}
+img {
+  width: 20%;
+}
+.list {
+  width: 20%;
+}
+.list2 {
+  width: 20%;
+}
+.list3 {
+  width: 20%;
+}
+.list4 {
+  width: 20%;
+}
